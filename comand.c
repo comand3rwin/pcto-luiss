@@ -39,3 +39,5 @@ OPERATORI MATEMATICI
 *
 /
 % RESTO DELLA DIVISIONE
+While(condizione)
+ riscrive finchè la condizone è verificata
