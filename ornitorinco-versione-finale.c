@@ -73,11 +73,33 @@ int giorno;
 int mese;
 int anno;    
 
-        printf("giono di nascità\n");
-        scanf("%d", &giorno)
+    printf("giono di nascità\n");
+        scanf("%d", &giorno);
         if (giorno>31)
         {
-            
+            printf("errore");
         }
+    printf("mese di nascità\n");
+        scanf("%d", &mese);
+        if (giorno>12)
+        {
+            printf("errore");
+        }
+    printf("mese di nascità\n");
+        scanf("%d", &mese);
+        if (giorno>12)
+        {
+            printf("errore");
+        }
+    printf("anno di nascita\n");
+        scanf("%d", &mese);
+        if (giorno>12)
+        {
+            printf("errore");
+        }
+    printf
+
+
+
 
 }
