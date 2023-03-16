@@ -41,3 +41,4 @@ OPERATORI MATEMATICI
 % RESTO DELLA DIVISIONE
 While(condizione)
  riscrive finchè la condizone è verificata
+%s per stamapre le stinghe char stringa[]=ciao carattere \0 è il terminatore 
