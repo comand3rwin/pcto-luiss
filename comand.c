@@ -42,3 +42,6 @@ OPERATORI MATEMATICI
 While(condizione)
  riscrive finchè la condizone è verificata
 %s per stamapre le stinghe char stringa[]=ciao carattere \0 è il terminatore 
+per lo scanf non si usa la & nelle strighe 
+stringa non una vriabile ma un puntatore
+
